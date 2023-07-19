@@ -1,0 +1,16 @@
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\bin\Release\EmployeesLoader.Plugin.dll
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\bin\Release\EmployeesViewer.Plugin.dll
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\bin\Release\EmployeesViewer.Plugin.pdb
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\bin\Release\UsersLoader.Plugin.dll
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\bin\Release\UsersLoader.Plugin.pdb
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\bin\Release\Newtonsoft.Json.dll
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\bin\Release\NLog.dll
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\bin\Release\PhoneApp.exe
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\bin\Release\PhoneApp.pdb
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\bin\Release\PhoneApp.exe.config
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\bin\Release\NLog.xml
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\obj\Release\UsersLoader.Plugin.csproj.AssemblyReference.cache
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\obj\Release\UsersLoader.Plugin.csproj.CoreCompileInputs.cache
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\obj\Release\UsersLoader.Plugin.csproj.CopyComplete
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\obj\Release\UsersLoader.Plugin.dll
+D:\Projects\workspace\csharp\test_tasks\PhonePluginsApplication\UsersLoader.Plugin\obj\Release\UsersLoader.Plugin.pdb
